@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanu Kumar</h1>
-<h3 align="center">I'm a 3rd-year Computer Science Engineering student with a strong passion for Full Stack Web Development and AI integration. I love building web apps that solve real-world problems and help people. I’m constantly learning, improving my skills, and pushing myself out of my comfort zone.</h3>
+<h3 align="center">I'm a 3rd-year Computer Science Engineering student with a strong passion for Full Stack Web Development and AI integration. I love building web apps that solve real-world problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanukumar01&label=Profile%20views&color=0e75b6&style=flat" alt="tanukumar01" /> </p>
 
