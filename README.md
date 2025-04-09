@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanukumar01" alt="tanukumar01" /></a> </p>
 
-- 🔭 I’m currently working on [TalentTrek] {https://tanukumar01.github.io/TalentTrek/}
+- 🔭 I’m currently working on [TalentTrek] [https://tanukumar01.github.io/TalentTrek/]
 
 - 🌱 I’m currently learning **Express.js**
 
