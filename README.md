@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanukumar01&label=Profile%20views&color=0e75b6&style=flat" alt="tanukumar01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanukumar01" alt="tanukumar01" /></a> </p>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" alt="Quickdraw Badge" />
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/tanukumar01/repo?style=social)
 
