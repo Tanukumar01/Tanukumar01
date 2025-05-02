@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanukumar01" alt="tanukumar01" /></a> </p>
 
+![GitHub Repo stars](https://img.shields.io/github/stars/tanukumar01/repo?style=social)
+
+
 - 🔭 I’m currently working on [TalentTrek](https://talent-trek.onrender.com/)
 
 - 🌱 I’m currently learning **Express.js**
